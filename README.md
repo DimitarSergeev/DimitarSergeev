@@ -16,4 +16,5 @@
 - 🌍 Actively engaged in the open-source community, contributing to various projects, collaborating with other developers, and staying updated with industry trends and advancements.
 - 📚 Lifelong learner with a passion for personal and professional growth. Regularly enhance my skills through online courses, tech meetups, conferences, and by engaging with the developer community through blog writing and speaking.
 - 🌟 Excited about emerging technologies and constantly experimenting with new tools and frameworks to enhance my skill set and project outcomes.
+- Version Control: Proficient in Git for source control and GitHub for repository management, collaboration, and code reviews.
 - 📫 Let’s connect! Reach out to me at dimitrsergeev49@gmail.com. Explore my work and projects on GitHub, and connect with me on LinkedIn. Check out my portfolio to see some of the exciting projects I’ve worked on.
