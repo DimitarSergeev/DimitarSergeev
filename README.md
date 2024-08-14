@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DimitarSergeev
-- 👀 I’m interested in JS Front-End
-- 🌱 I’m currently learning JS Web in SoftUni
-- 📫 How to reach me, at mail sergeev88@abv.bg
+- 👀 I’m interested in REACT-JS Front-End
+- 🌱 I’m currently JS GOD, PRO MAX ULTRA
+- 📫 How to reach me, at mail dimitrsergeev49@gmail.com
 
 <!---
 DimitarSergeev/DimitarSergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
