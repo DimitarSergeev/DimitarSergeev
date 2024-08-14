@@ -3,16 +3,16 @@
 - 🌱 Currently delving into advanced JavaScript concepts and exploring the latest in React.js and Front-End technologies to drive innovation in my projects.
 - 🚀 Committed to creating high-performance, responsive applications with a keen eye for detail. I embrace modern web standards and prioritize best practices in all my work.
 - 🔧 Proficient in a wide array of tools and technologies including:
-- State Management: Redux, Recoil
 - Type Safety: TypeScript
-- Bundling & Building: Webpack, Parcel, Vite
-- Server-Side Rendering & Static Site Generation: Next.js, Gatsby
-- Data Management: GraphQL, Apollo Client
+- Bundling & Building:  Vite
+- Server-Side Rendering & Static Site Generation: Next.js
+- Data Management: MySql, MongoDb
 - Styling: CSS-in-JS libraries like styled-components, emotion, and utility-first frameworks like Tailwind CSS
 - 🎨 Dedicated to user experience and user interface design, ensuring that every application is both aesthetically pleasing and highly functional. Expertise in responsive design, accessibility, and performance optimization.
 - 🛠️ Strong advocate for testing and quality assurance with experience in:
 - Unit and Integration Testing: Jest, React Testing Library
 - End-to-End Testing: Cypress, Puppeteer
+- Back-End: Experienced with Laravel for crafting robust server-side applications and APIs.
 - 🌍 Actively engaged in the open-source community, contributing to various projects, collaborating with other developers, and staying updated with industry trends and advancements.
 - 📚 Lifelong learner with a passion for personal and professional growth. Regularly enhance my skills through online courses, tech meetups, conferences, and by engaging with the developer community through blog writing and speaking.
 - 🌟 Excited about emerging technologies and constantly experimenting with new tools and frameworks to enhance my skill set and project outcomes.
